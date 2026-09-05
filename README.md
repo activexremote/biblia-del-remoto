@@ -28,6 +28,15 @@ Two overviews, one system: the founder who builds the remote company, and the wo
 | IV | [El léxico del remoto](./es/04-lexico.md) |
 | — | [Fuentes y lecturas](./es/05-fuentes.md) |
 
+## Apéndice · Appendix
+
+| | |
+|---|---|
+| 🇪🇸 | [Prompt para crear el handbook de tu empresa](./es/A1-prompt-handbook.md) |
+| 🇬🇧 | [Prompt to build your company handbook](./en/A1-handbook-prompt.md) |
+
+The bible is the philosophy; the handbook is your company's concrete rules. Use the prompt to generate the second from the first. · La biblia es la filosofía; el handbook, las reglas concretas de tu empresa.
+
 ## Editing rules · Reglas de edición
 
 - Every data point carries a source. Anything marked `[SOURCE PENDING]` / `[FUENTE PENDIENTE]` is not cleared for use.
