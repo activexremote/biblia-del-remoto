@@ -214,3 +214,47 @@ Sin oficina, cada casa es un perímetro y cada portátil una posible fuga. La se
 - Acceso por lo que la persona necesita, no «acceso a todo por si acaso».
 
 - Qué pasa con el equipo y los accesos el día que alguien se va: escrito antes, no ese día.
+
+## 13 · Conexión diseñada y buen tono escrito
+
+En una oficina, la cercanía y el tono se resuelven solos: te ven la cara. En remoto no. Las dos cosas —el vínculo y cómo suena lo que escribes— hay que diseñarlas a propósito.
+
+### La conexión no ocurre sola
+
+GitLab lo dice claro: en remoto la comunicación informal no aparece, se diseña. Sin pasillos ni cafés, el vínculo se pierde salvo que pongas mecanismos concretos.
+
+- Empareja cafés al azar entre gente que no trabaja junta; una app tipo Donut lo hace solo.
+
+- Un canal social por afición, no de trabajo, y sesiones de coworking en vídeo para trabajar acompañado.
+
+- Un encuentro presencial al año si el presupuesto llega: es lo que más une.
+
+### El tono del texto se pacta
+
+En texto no hay cara ni voz; un mensaje neutro se lee como un ataque. GitLab enseña reglas de tono que evitan la mitad de los conflictos.
+
+- **Asume buena intención:** si algo suena mal, pregunta antes de ofenderte.
+
+- **Sin ego:** no defiendas un punto solo por ganar; el objetivo es acertar, no vencer.
+
+- **El feedback es un regalo:** agradécelo, no lo repelas.
+
+Darren Murph et al. · The Remote Playbook · GitLab · 2021 · comunicación informal y tono en texto.
+
+## 14 · Remoto sostenible: no quemes a tu gente
+
+**El deber que solo es tuyo.** En remoto, el burnout no se ve: nadie nota las ojeras por webcam. Prevenirlo es trabajo del fundador, no un extra de RR. HH.
+
+### No premies el exceso
+
+GitLab avisa: dar las gracias en público a quien echó horas de más manda el mensaje de que el trabajo va antes que la vida, y sube el listón para todos. Un sprint puntual no es la nueva norma.
+
+### Diseña la desconexión
+
+Pon por escrito que nadie responde fuera de su horario, que las vacaciones se cogen, y que el estado «no disponible» se respeta. Lo que no está escrito, en remoto no existe.
+
+### Documenta los recursos
+
+Deja los recursos de salud mental fáciles de encontrar. Quien lo está pasando mal en remoto rara vez levanta la mano; el recurso tiene que estar a la vista, no en un cajón.
+
+The Remote Playbook · GitLab · 2021 · prevención de burnout, aislamiento y ansiedad en remoto.

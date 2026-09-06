@@ -10,6 +10,10 @@ A mix of source types, house-style: studies, industry reports, reference framewo
 
 - **State of Global Hiring 2026** · Deel · 2026 · real international hiring trends, contractor and EOR · ~25 min · Deel report.
 
+- **The Remote Playbook** · Darren Murph et al. (GitLab) · 2021 · a full guide to remote transition and practice, from one of the largest all-remote companies · ~1 h.
+
+- **The 10 models of remote and hybrid work** · GitLab Handbook · the full spectrum, from “no remote” to “strictly remote” · ~20 min · handbook.gitlab.com.
+
 ### Studies
 
 - **Kasperska et al.** · PLOS ONE · 2024 · evidence of the promotion penalty associated with remote work · ~15 min · PLOS ONE journal. Verify exact citation.

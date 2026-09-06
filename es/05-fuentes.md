@@ -10,6 +10,10 @@ Mezcla de tipos de fuente, como manda la casa: estudios, informes de industria, 
 
 - **State of Global Hiring 2026** · Deel · 2026 · tendencias reales de contratación internacional, contractor y EOR · ~25 min · informe de Deel.
 
+- **The Remote Playbook** · Darren Murph et al. (GitLab) · 2021 · guía completa de transición y práctica remota, de una de las mayores empresas all-remote · ~1 h.
+
+- **Los 10 modelos de remoto e híbrido** · GitLab Handbook · el espectro completo, de «no remoto» a «strictly remote» · ~20 min · handbook.gitlab.com.
+
 ### Estudios
 
 - **Kasperska et al.** · PLOS ONE · 2024 · evidencia de la penalización en la promoción asociada al trabajo remoto · ~15 min · revista PLOS ONE. Verificar cita exacta.

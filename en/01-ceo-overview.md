@@ -214,3 +214,47 @@ With no office, every home is a perimeter and every laptop a possible leak. Secu
 - Access by what the person needs, not “access to everything just in case.”
 
 - What happens to gear and access the day someone leaves: written before, not that day.
+
+## 13 · Connection by design and good written tone
+
+In an office, closeness and tone take care of themselves: people see your face. In remote they don’t. Both — the bond and how what you write sounds — have to be designed on purpose.
+
+### Connection doesn’t happen on its own
+
+GitLab says it plainly: in remote, informal communication doesn’t appear, you design it. With no hallways or coffee runs, the bond fades unless you put concrete mechanisms in place.
+
+- Pair up random coffees between people who don’t work together; an app like Donut does it for you.
+
+- A social channel by hobby, not by work, and video coworking sessions to work in company.
+
+- One in-person gathering a year if the budget allows: it’s what bonds people most.
+
+### Text tone is agreed
+
+In text there’s no face and no voice; a neutral message reads like an attack. GitLab teaches tone rules that head off half the conflicts.
+
+- **Assume positive intent:** if something sounds off, ask before you take offense.
+
+- **No ego:** don’t defend a point just to win; the goal is to be right, not to beat someone.
+
+- **Feedback is a gift:** thank people for it, don’t swat it away.
+
+Darren Murph et al. · The Remote Playbook · GitLab · 2021 · informal communication and text tone.
+
+## 14 · Sustainable remote: don’t burn your people out
+
+**The duty that’s only yours.** In remote, burnout is invisible: nobody sees the dark circles over webcam. Preventing it is the founder’s job, not an HR extra.
+
+### Don’t reward overwork
+
+GitLab warns: publicly thanking someone for putting in extra hours sends the message that work comes before life, and it raises the bar for everyone. A one-off sprint isn’t the new normal.
+
+### Design the disconnect
+
+Put it in writing that nobody replies outside their hours, that vacation gets taken, and that a “not available” status is respected. What isn’t written, in remote, doesn’t exist.
+
+### Document the resources
+
+Keep mental-health resources easy to find. Someone struggling in remote rarely raises a hand; the resource has to be in plain sight, not in a drawer.
+
+The Remote Playbook · GitLab · 2021 · preventing burnout, isolation, and anxiety in remote.

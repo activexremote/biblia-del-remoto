@@ -167,4 +167,44 @@ Cada país tiene sus requisitos: ingreso mínimo, seguro médico, duración. Ant
 
 Base de datos de visados de referencia: Global Citizen Solutions. Coste de vida comparado: Numbeo. Verificar requisitos vigentes por país antes de decidir.
 
+## 13 · Escribe en bajo contexto y busca antes de preguntar
+
+**Bajo contexto (low-context).** Escribe como si quien lee no supiera nada del tema, o ni siquiera trabajara aún en la empresa. Contexto de más es cortesía en asíncrono; darlo por supuesto es la causa número uno de malentendidos.
+
+### Cómo se escribe en bajo contexto
+
+- Da el porqué, no solo el qué: quien lee no estaba en tu cabeza.
+
+- Relee antes de enviar: lo escrito queda para siempre y se lee en otra zona horaria.
+
+- Una idea, un mensaje completo: nada de «hola» suelto esperando para soltar la pregunta.
+
+### Busca antes de tocar el hombro
+
+GitLab enseña a asumir que tu pregunta ya está respondida y a buscar en el manual antes de preguntar a una persona. Preguntar lo que ya está escrito quema el tiempo de otro; buscar primero es respeto.
+
+**DRI (Directly Responsible Individual).** Para cada tema, una sola persona responsable. Evita el «pensaba que lo hacías tú» y te dice a quién escribir. Si no sabes quién es el DRI de algo, esa es tu primera pregunta.
+
+## 14 · Sostén el ritmo: límites, señales y descanso
+
+En remoto es fácil trabajar de más: no hay hora de salir ni oficina que cerrar. Cuidar tu energía es parte del trabajo, no lo contrario.
+
+### Pon límites de verdad
+
+- Separa trabajo y casa: si puedes, un sitio solo para trabajar; si no, una rutina que marque el principio y el fin.
+
+- Usa tu estado para decir cuándo no estás, y respétalo tú primero.
+
+- Quita las notificaciones del móvil fuera de horario. Nadie se muere por responder el lunes.
+
+### Reconoce el burnout a tiempo
+
+GitLab lista señales: cansancio constante, dejar de disfrutar lo que hacías, rendimiento que baja, apagar la cámara para que no te vean. Si te pasa, no lo tapes: dilo en tu 1:1.
+
+### El puesto también importa
+
+Una silla que sostenga la espalda, la pantalla a la altura de los ojos y a un brazo de distancia, y los pies apoyados. No es lujo: es lo que evita que el cuerpo te pase factura a los seis meses.
+
+The Remote Playbook · GitLab · 2021 · límites, señales de burnout y ergonomía (guía Mayo Clinic).
+
 **Parte III · Rendimiento**

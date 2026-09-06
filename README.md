@@ -39,6 +39,8 @@ The bible is the philosophy; the handbook is your company's concrete rules. Use 
 
 ## Editing rules · Reglas de edición
 
+Contributions welcome — read [CONTRIBUTING.md](./CONTRIBUTING.md) first. · Se aceptan contribuciones: lee antes [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 - Every data point carries a source. Anything marked `[SOURCE PENDING]` / `[FUENTE PENDIENTE]` is not cleared for use.
 - Money in USD. Convert other currencies and keep the original in parentheses.
 - Both languages are **originals, not translations**: change one, review the other.

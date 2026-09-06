@@ -167,4 +167,44 @@ Each country has its requirements: minimum income, health insurance, duration. B
 
 Reference visa database: Global Citizen Solutions. Cost-of-living comparison: Numbeo. Verify current requirements by country before deciding.
 
+## 13 · Write low-context, and search before you ask
+
+**Low-context.** Write as if the reader knows nothing about the topic — or doesn’t even work at the company yet. Extra context is courtesy in async; assuming it is the number-one cause of misunderstandings.
+
+### How to write low-context
+
+- Give the why, not just the what: the reader wasn’t inside your head.
+
+- Reread before you send: what you write is forever, and it’s read in another time zone.
+
+- One idea, one complete message: no lone “hi” waiting to drop the question.
+
+### Search before you tap a shoulder
+
+GitLab teaches you to assume your question is already answered and to search the handbook before asking a person. Asking what’s already written burns someone else’s time; searching first is respect.
+
+**DRI (Directly Responsible Individual).** For each topic, one single responsible person. It kills the “I thought you had it” and tells you who to write to. If you don’t know who the DRI is, that’s your first question.
+
+## 14 · Hold the pace: boundaries, signals, and rest
+
+In remote it’s easy to overwork: there’s no clock-out and no office to close. Guarding your energy is part of the job, not the opposite of it.
+
+### Set real boundaries
+
+- Separate work and home: if you can, a space only for work; if not, a routine that marks the start and the end.
+
+- Use your status to say when you’re off, and respect it yourself first.
+
+- Kill phone notifications outside hours. Nobody dies from replying on Monday.
+
+### Catch burnout early
+
+GitLab lists the signs: constant tiredness, no longer enjoying what you did, performance slipping, turning off your camera so nobody sees you. If it’s happening, don’t hide it: say so in your 1:1.
+
+### Your setup matters too
+
+A chair that supports your back, the screen at eye level and an arm’s length away, and your feet flat. It isn’t a luxury: it’s what keeps your body from billing you in six months.
+
+The Remote Playbook · GitLab · 2021 · boundaries, burnout signs, and ergonomics (Mayo Clinic guide).
+
 **Part III · Performance**
