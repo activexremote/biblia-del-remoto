@@ -34,6 +34,8 @@ Two overviews, one system: the founder who builds the remote company, and the wo
 |---|---|
 | 🇪🇸 | [Prompt para crear el handbook de tu empresa](./es/A1-prompt-handbook.md) |
 | 🇬🇧 | [Prompt to build your company handbook](./en/A1-handbook-prompt.md) |
+| 🇪🇸 | [El stack remoto esencial](./es/A2-stack-remoto.md) |
+| 🇬🇧 | [The essential remote stack](./en/A2-remote-stack.md) |
 
 The bible is the philosophy; the handbook is your company's concrete rules. Use the prompt to generate the second from the first. · La biblia es la filosofía; el handbook, las reglas concretas de tu empresa.
 
